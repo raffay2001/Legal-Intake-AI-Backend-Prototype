@@ -1,0 +1,14 @@
+bs4
+fastapi
+uvicorn
+pymongo
+langchain
+transformers
+speechrecognition
+pyttsx3
+langchain_community
+langchain-ollama
+sentence-transformers
+tiktoken
+joblib
+pyaudio
