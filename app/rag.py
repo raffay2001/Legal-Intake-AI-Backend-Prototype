@@ -7,7 +7,7 @@ from langchain.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 
 # List of URLs to load documents from
-urls = ["http://127.0.0.1:5500/documents_website/index.html"]
+urls = ["http://127.0.0.1:5500/raffay_legal_agency_website/"]
 
 # Load documents from the URLs
 docs = [WebBaseLoader(url).load() for url in urls]
